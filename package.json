@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@nestjs/cli": "^8.1.2",
+    "@nestjs/common": "^8.0.9",
     "@nestjs/graphql": "^9.0.5",
     "apollo-server-express": "^3.3.0",
     "class-validator": "^0.13.1",
@@ -15,5 +16,8 @@
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1",
     "typeorm": "^0.2.38"
+  },
+  "devDependencies": {
+    "prettier": "2.4.1"
   }
 }
