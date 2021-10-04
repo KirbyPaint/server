@@ -1,0 +1,9 @@
+{
+  "name": "nest-typegraph-server",
+  "version": "1.0.0",
+  "description": "for learning more",
+  "main": "index.js",
+  "repository": "https://github.com/KirbyPaint/server.git",
+  "author": "Ash Porter <ashley.porter@eyecuelab.com>",
+  "license": "MIT"
+}
